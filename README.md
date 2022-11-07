@@ -1,24 +1,95 @@
-<h1 align="center">Hi 👋, I'm Sophon</h1>
-<h3 align="center">An Android developer from China.</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+</div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sophondokidoki&label=Profile%20views&color=0e75b6&style=flat" alt="sophondokidoki" /> </p>
+### <div align="center">I'm Entr0py, an Android Developer. 👨‍💻 Working remotely since 2018 🚀</div>  
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sophondokidoki" alt="sophondokidoki" /></a> </p>
+- 🌱 I’m currently learning Golang and Php.  
+  
 
-- 🌱 I’m currently learning **Kotlin**
+- ⚡ Working and Looking for a new job.  
+  
 
-- 📝 I regularly write articles on [https://note.dokihub.com](https://note.dokihub.com)
+<br/>  
 
-- 📫 How to reach me **sophon_dokidoki@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dokidokisophon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dokidokisophon" height="30" width="40" /></a>
-</p>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophondokidoki&show_icons=true&locale=en&layout=compact" alt="sophondokidoki" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophondokidoki&show_icons=true&locale=en" alt="sophondokidoki" /></p>
+### I Can ...  
+<div align="center">  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### I'm Learning ...  
+<div align="center">  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### I'm working on ...  
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/EntropyDokiDoki" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/DokiDokiEntropy" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EntropyDokiDoki&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
