@@ -75,19 +75,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center"></div>
 <br />
 
