@@ -3,4 +3,4 @@
 </div>  
   
 
-### <div align="center">I'm Entr0py, an Android Developer. 👨‍💻 Working remotely since 2018 🚀</div>  
+### <div align="center">I'm Entr0py, an Android Developer. 👨‍💻 Working on Android since 2018 🚀</div>  
