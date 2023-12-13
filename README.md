@@ -3,7 +3,9 @@
 </div>  
   
 
-### I'm Entr0py, an Android Developer. 👨‍💻 Working on Android since 2018 🚀
+### I'm Entr0py, an Android Developer. 
+
+### 👨‍💻 Working on Android since 2018 🚀
 
 ### 🤓 A tech enthusiast and love to learn new things.
 
